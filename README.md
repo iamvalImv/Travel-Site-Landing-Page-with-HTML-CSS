@@ -1,4 +1,4 @@
-# Travel-Site-Landing-Page-with-HTML-CSS
+# Travelling-Site-Landing-Page-with-HTML-CSS
 
 Responsive Travelling Site Landing Page
 #Just 4 fun
